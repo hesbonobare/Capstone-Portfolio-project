@@ -55,7 +55,7 @@
   }
 
   .stickyy__header{
-    width: 100%;
+    width:auto;
     height: 80px;
     line-height: 80px;
     position: fixed;

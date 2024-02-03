@@ -14,7 +14,7 @@
       @apply max-w-full w-[1440px] px-5 mx-auto
   }
   .containerheader{
-    @apply max-w-full w-[1440px]
+    @apply max-w-full 
   }
 
   .btn{
